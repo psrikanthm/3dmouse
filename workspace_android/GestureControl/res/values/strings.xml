@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestureControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send">Send Readings</string>
+    <string name="ip">IP Address: </string>
+    <string name="port">Port: </string>
+    
+</resources>
